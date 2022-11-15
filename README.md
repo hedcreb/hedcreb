@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hedcreb
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on well not much
+- 📫 How to reach me hedcreb@gmail.com
