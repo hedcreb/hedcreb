@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @hedcreb
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anything hmu.
-- 📫 How to reach me hedcreb@gmail.com
+# bored summary
+Hi, I’m hedcreb. I'm a self taught Finnish game developer who is learning 3 seperate game engines!
+**Source**, **Unity** (not that much anymore) and **Unreal**. I grew up with games like Superhot, Half-Life and Doom. And overall im a **HUGE** FPS-fan. 
+# specialties
+I have a lot of experience with Probuilder and some with the Hammer editor. I'm more of a writer though, i can write a good story for a game and then i won't deliver on it lol. I'm also a Sound Mixer.
+# contacts
+If you want to work with me, here are my contacts, i am down for anything.
+
+email - hedcreb@gmail.com
+
+discord - hedcreb#7767
+
+twitter - @hedcreb_
