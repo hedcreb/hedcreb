@@ -1,8 +1,9 @@
 # bored summary
-Hi, I’m hedcreb. I'm a self taught Finnish game developer who is learning 2 seperate game engines!
-**Unity** and **Unreal**. I grew up with games like Superhot, Half-Life and Doom. And overall im a **HUGE** FPS-fan. 
+Hi, I’m hedcreb. I'm a self taught Finnish game developer who specializes in using
+**Unity**. I grew up with games like Superhot, Half-Life and Doom. And overall I'm a **HUGE** FPS-fan. 
 # specialties
-I have a lot of experience in environmental design. I'm more of a writer though, i can write a good story for a game and then i won't deliver on it lol. I'm also a Sound Mixer.
+I have a lot of experience in environmental design and since I made this I've gotten much better at programming of all kinds. 
+I'm great at writing as well, I can write a good story for a game and then I won't deliver on it lol. I'm also a Sound Mixer.
 # contacts
 If you want to work with me, here are my contacts, i am down for anything.
 
