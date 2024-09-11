@@ -10,5 +10,3 @@ If you want to work with me, here are my contacts, i am down for anything.
 email - hedcreb@gmail.com
 
 discord - hedcreb#7767
-
-twitter - @hedcreb_
