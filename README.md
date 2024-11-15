@@ -1,5 +1,5 @@
-# bored summary
-Hi, I’m hedcreb. I'm a self taught Finnish game developer who specializes in using
+# boring summary
+Hi, I’m hedcreb. I'm a self taught Finnish game developer/programmer who mainly uses
 **Unity**. I grew up with games like Superhot, Half-Life and Doom. And overall I'm a **HUGE** FPS-fan. 
 # specialties
 I have a lot of experience in environmental design and since I made this I've gotten much better at programming of all kinds. 
