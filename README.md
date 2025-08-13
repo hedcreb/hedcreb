@@ -1,5 +1,6 @@
-hey to you too.
+(un)professional c++ programmer.
+i love neovim :3.
 
 email - hedcreb@gmail.com
 
-discord - hedcreb#7767
+discord - hedcreb
