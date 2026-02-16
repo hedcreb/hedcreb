@@ -1,3 +1,3 @@
-(un)professional c++ programmer.
+i program, sometimes C, sometimes C++.
 
 discord - hedcreb
